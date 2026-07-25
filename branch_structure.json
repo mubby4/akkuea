@@ -1,0 +1,30 @@
+{
+  "default_branch": "develop",
+  "branches": [
+    "backup",
+    "chore/cycles-4-5-planning",
+    "develop",
+    "fix/1010-optimistic-lending-ui",
+    "fix/1010-optimistic-ui-lending",
+    "fix/property-viewer3d-set-state-in-effect",
+    "origin"
+  ],
+  "parent": {
+    "backup": "develop",
+    "chore/cycles-4-5-planning": "develop",
+    "develop": null,
+    "fix/1010-optimistic-lending-ui": "develop",
+    "fix/1010-optimistic-ui-lending": "develop",
+    "fix/property-viewer3d-set-state-in-effect": "develop",
+    "origin": "develop"
+  },
+  "order": [
+    "develop",
+    "backup",
+    "chore/cycles-4-5-planning",
+    "fix/1010-optimistic-lending-ui",
+    "fix/1010-optimistic-ui-lending",
+    "fix/property-viewer3d-set-state-in-effect",
+    "origin"
+  ]
+}
